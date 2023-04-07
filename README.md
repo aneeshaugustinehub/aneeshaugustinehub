@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aneeshaugustinehub
 - 👀 I’m interested in web designing 
-- 🌱 I’m currently learning jQuery
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on git hub 
 - 📫 How to reach me aneeshaugustine911@gmail.com
 
