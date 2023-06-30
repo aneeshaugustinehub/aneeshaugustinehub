@@ -1,24 +1,10 @@
-@@ -1,11 +1,9 @@
-<div style="width: 100%;">
-  <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  <a href="https://github.com/nikolalsvk/nikolalsvk/blame/main/welcome.svg">
-    <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-  </a>
-</div>
+- 👋 Hi, I’m @aneeshaugustinehub
+- 👀 I’m interested in web designing 
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate on git hub 
+- 📫 How to reach me aneeshaugustine911@gmail.com
 
-![Welcome to nikolalsvk's GitHub profile README](welcome.svg)
-
-![Another one](hello-animated.svg)
-
-<!--
-**nikolalsvk/nikolalsvk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+aneeshaugustinehub/aneeshaugustinehub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
