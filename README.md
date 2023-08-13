@@ -9,4 +9,4 @@ aneeshaugustinehub/aneeshaugustinehub is a ✨ special ✨ repository because it
 You can click the Preview link to take a look at your changes.
 --->
 Languages and Tools:
-bootstrap css3 firebase git html5 javascript react redux
+ html5 css javascript bootstrap react firebase mongodb nodejs git 
