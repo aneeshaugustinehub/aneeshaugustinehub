@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @aneeshaugustinehub
 - 👀 I’m interested in web designing 
 - 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on git hub 
-- 📫 How to reach me aneeshaugustine911@gmail.com
+- 💞️ I’m looking to collaborate on git hub
 
 <!---
 aneeshaugustinehub/aneeshaugustinehub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
