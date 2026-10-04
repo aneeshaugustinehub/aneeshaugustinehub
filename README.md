@@ -1,45 +1,59 @@
-<h1 align="center">Hi, I'm Aneesh 👋</h1>
+# Hi, I'm Aneesh 👋
 
-<p align="center">
-  Frontend-focused MERN developer with a design background.<br>
-  I love solving problems and writing readable, maintainable code.
-</p>
-
-<p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Bore2Game-111827?style=for-the-badge" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+Frontend-focused MERN developer with a design background.
+I love solving problems and writing readable, maintainable code.
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | What it is | Stack |
-|---|---|---|
-| **[Twitter Clone](YOUR_REPO_URL)** | Full-stack social app with auth, tweets, image uploads, comments, bookmarks | React, Vite, Tailwind, Express, MongoDB, TanStack Query |
-| **[Bore2Game](YOUR_PORTFOLIO_URL)** | Personal portfolio with dark mode, live on GitHub Pages | HTML, Tailwind CSS |
-| **[Netflix UI Clone](YOUR_REPO_URL)** | Responsive streaming UI pulling data from an API | React, Axios |
+| ------- | ---------- | ----- |
+| **Snippet**<br/>[Client repo](https://github.com/aneeshaugustinehub/snippet-client) · [Server repo](https://github.com/aneeshaugustinehub/snippet-server) | Full-stack social app with auth, posts, image uploads, comments, likes, bookmarks and follows | React, Vite, Tailwind, TanStack Query, Express, MongoDB |
+| **[Portfoliyo-Website](https://github.com/aneeshaugustinehub/Portfoliyo-Website)** | Personal portfolio with dark mode, live on GitHub Pages | HTML, Tailwind CSS |
+| **Netflix UI Clone** | Responsive streaming UI pulling data from an API | React, Axios |
+
+### Inside Snippet
+
+- **Parallel data fetching** with TanStack Query's `useQueries`
+- **Mongoose array-based relationships** for fast follow/like/bookmark lookups
+- **Vite reverse proxy** so dev and prod share the same origin setup, no CORS headaches
+- **JWT auth** with bcrypt, plus **Multer** image uploads
+
+---
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,html,css,git,github,vite,linux,figma" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,html,css,git,github,vite,linux,figma)
 
 **Learning next:** TypeScript · Next.js
+
+---
 
 ## 🎨 Design + Code
 
 I started in graphic design (The Digitants, Wedline), so I think about layout, spacing, and user experience as much as I think about components and APIs.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-</p>
+---
 
 ## 📫 Open to Work
 
 Looking for **Junior Frontend / React / MERN Developer** roles, Bengaluru or remote. Let's talk.
+
+---
+
+## 🌐 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Aneesh.augustine) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aneesh12Augustine) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aneeshaugustine12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeshaugustine11@gmail.com)
+
+---
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=aneeshaugustinehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=aneeshaugustinehub&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=aneeshaugustinehub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=aneeshaugustinehub&icon=0&color=0)](https://visitcount.itsvg.in)
