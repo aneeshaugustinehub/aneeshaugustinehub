@@ -44,7 +44,7 @@ Looking for **Junior Frontend / React / MERN Developer** roles, Bengaluru or rem
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Aneesh.augustine) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aneesh12Augustine) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aneeshaugustine12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeshaugustine11@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aneesh.augustine) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aneeshaugusti12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeshaugustine11@gmail.com)
 
 ---
 
@@ -56,4 +56,4 @@ Looking for **Junior Frontend / React / MERN Developer** roles, Bengaluru or rem
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=aneeshaugustinehub&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://komarev.com/ghpvc/?username=aneeshaugustinehub&icon=0&color=0)](https://visitcount.itsvg.in) -->
